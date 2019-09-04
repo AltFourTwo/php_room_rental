@@ -1,7 +1,22 @@
 # php_room_rental
 
-This is a 2-man team project we did for our PHP class, built with the MVC architecture.
+Final Assignment of Hypermedia I course.
+Focus was on PHP and MVC2.
+This was a 2-man project.
 
-The goal was to for owners of rental rooms to easily put them online and available to potential renters.
+The Things I've learned :
 
-it features a small search engine by criteria or keywords and a dynamic calendar to visualize the availability of a room.
+- Working with GitHub (From a browser)
+- Working with UwAmp (MySQL, PHP, Apache combo in a standalone format)
+- Code queries and entity classes for the data access object layer
+- How to use MVC2 to handle client requests and sanitize user input
+- Coding in PHP with NetBeans
+- Serialization in PHP
+- User and session management client side
+- How to handle extreme cases
+
+Challenges Encountered
+
+- Adapt to the template site of my teammate
+- PHP does not precompile
+
